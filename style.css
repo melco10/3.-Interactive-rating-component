@@ -124,6 +124,10 @@ main{
     color: hsl(217, 12%, 63%);
 }
 
+.attribution{
+    margin-top: 50px;
+    color: white;
+}
 
 @media only screen and (max-width: 375px) {
     .card-component{
